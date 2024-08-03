@@ -13,7 +13,9 @@ Que-12 remove duplicates
 Que-13 count of vowels in given string
 Que-14 Power of Two and return true and false
 Que-15 sum of all square of all elements from the given array
-
+Que-16 find the min value in an array
+Que-17 write a function to convert a string to camerlcase & snake_case
+Que-18  write a function to check if a character is uppercase or losercase
 
 
 

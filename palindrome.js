@@ -1,4 +1,3 @@
-
 /* ---------------------------- check palindrome with ignoring whitespace,punctuations,and capitalization---------------------------- */
 
 const palindrome = (word) => {
